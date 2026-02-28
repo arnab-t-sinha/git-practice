@@ -9,3 +9,13 @@ git status
 git add <file>
 git commit -m "clear message"
 git push
+
+
+git status        # what changed?
+git add .         # stage all changes
+git commit -m ""  # save snapshot
+git push          # send to GitHub
+git pull          # get updates
+git log           # history
+git diff          # see changes
+git checkout -b   # new branch
